@@ -55,7 +55,7 @@ class Tool(BaseTool):
     def __init__(self):
         self.type = BaseTool.TYPE_INSTALL
         self.name = "模板工程"
-        self.autor = '小鱼'
+        self.autor = '某某'
 
     def run(self):
         #正式的运行
