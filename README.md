@@ -6,16 +6,16 @@
 
 已支持工具列表：
 
-- 一键安装:ROS(支持ROS和ROS2,树莓派Jetson)  [贡献@小鱼](https://github.com/fishros)
-- 一键安装:VsCode(支持amd64和arm64)  [贡献@小鱼](https://github.com/fishros)
-- 一键安装:github桌面版(小鱼常用的github客户端)  [贡献@小鱼](https://github.com/fishros)
-- 一键安装:nodejs开发环境(通过nodejs可以预览小鱼官网噢  [贡献@小鱼](https://github.com/fishros)
-- 一键配置:rosdep(小鱼的rosdepc,又快又好用)  [贡献@小鱼](https://github.com/fishros)
-- 一键配置:ROS环境(快速更新ROS环境设置,自动生成环境选择)  [贡献@小鱼](https://github.com/fishros)
-- 一键配置:系统源(更换系统源,支持全版本Ubuntu系统)  [贡献@小鱼](https://github.com/fishros)
-- 一键安装:Docker(支持amd64和arm64)  [贡献@alyssa](https://github.com/alyssa1024)
-- 一键安装:cartographer  [贡献@小鱼&Catalpa ](https://github.com/fishros)
-- 一键安装:微信客户端  [贡献@小鱼](https://github.com/fishros)
+- 一键安装:ROS(支持ROS和ROS2,树莓派Jetson) 
+- 一键安装:VsCode(支持amd64和arm64)  
+- 一键安装:github桌面版(小鱼常用的github客户端)  
+- 一键安装:nodejs开发环境(通过nodejs可以预览小鱼官网噢  
+- 一键配置:rosdep(小鱼的rosdepc,又快又好用) 
+- 一键配置:ROS环境(快速更新ROS环境设置,自动生成环境选择)  
+- 一键配置:系统源(更换系统源,支持全版本Ubuntu系统)  
+- 一键安装:Docker(支持amd64和arm64) 
+- 一键安装:cartographer 
+- 一键安装:微信客户端  
 
 
 
@@ -84,10 +84,10 @@ class Tool(BaseTool):
 ## 贡献名单
 
 - 一键安装ROS [小鱼](https://github.com/fishros)
-- 一键安装github-deskto [小鱼](https://github.com/fishros)
-- 一键配置rosdep [小鱼](https://github.com/fishros)
-- 一键配置ros环境 [小鱼](https://github.com/fishros)
-- 一键配置系统源 [小鱼](https://github.com/fishros)
-- 一键安装nodejs [小鱼](https://github.com/fishros)
-- 一键安装vscode [小鱼](https://github.com/fishros)
-- 一键安装:Docker(支持amd64和arm64) [@alyssa](https://github.com/alyssa1024)
+- 一键安装github-deskto
+- 一键配置rosdep 
+- 一键配置ros环境 
+- 一键配置系统源 
+- 一键安装nodejs 
+- 一键安装vscode
+- 一键安装:Docker(支持amd64和arm64) [@alyssa]
